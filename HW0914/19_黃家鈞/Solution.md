@@ -20,6 +20,10 @@ Median＝(8+1)/2=4.5;4＋0.5*(4-4)＝4
 
 Mode = 3、4、5
 
+Dotplot：
+
+![image](https://github.com/user-attachments/assets/1ad963c1-7253-4f0f-a2e9-6aa1d84031ec)
+
 ---
 
 CH02.02 Q14
