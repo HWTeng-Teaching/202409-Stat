@@ -40,6 +40,10 @@ $s^2=\frac{\sum{X^2}-\frac{(\sum{X})^2}{n}}{n-1}=\frac{(36014-35046.4)}{9}\appro
 
 $s=\sqrt{107.51}\approx10.37$
 
+c.
+
+$\frac{31}{10.37}\approx2.99$
+
 ---
 
 CH02.04_Q02
