@@ -98,6 +98,8 @@ CH02.04_Q24
 
 a.
 
+![image](https://github.com/user-attachments/assets/fa2290de-f192-4f76-9aab-373efc5690b0)
+
 b.
 
 6、7、8、9月為夏季用電高峰月份，無outliers
