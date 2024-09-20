@@ -78,6 +78,8 @@ max=485
 
 b.
 
+<img width="1080" alt="image" src="https://github.com/user-attachments/assets/e9074418-7831-450f-b6a4-0cebf26d319a">
+
 c.
 
 IQR=315.75-130.5=185.25
