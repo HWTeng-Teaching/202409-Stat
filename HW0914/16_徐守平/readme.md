@@ -13,3 +13,11 @@ Total amount = 50
 Older than 35 to less than 45 = 26
 
 26/50=54%
+
+C.
+
+Total amount =50
+
+Less than 50 = 49
+
+49/50=98%
