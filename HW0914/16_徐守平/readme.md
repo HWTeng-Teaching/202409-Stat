@@ -42,4 +42,4 @@ Mean=4
 
 Median= .5(n+1) = 4.5th → 4+0.5*(4-4)=4
 
-![image](https://github.com/user-attachments/assets/a5bd095d-a25d-4ead-80dc-a88bd3aadfce)
+![image](https://github.com/user-attachments/assets/c2361833-544b-4c31-8cb0-e8a4a2de1776)
