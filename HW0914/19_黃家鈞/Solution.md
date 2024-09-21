@@ -78,7 +78,7 @@ max=485
 
 b.
 
-<img width="1080" alt="image" src="https://github.com/user-attachments/assets/e9074418-7831-450f-b6a4-0cebf26d319a">
+![image](https://github.com/user-attachments/assets/4d2497cd-64e9-40fb-b4fe-513aa5bc742c)
 
 c.
 
