@@ -3,6 +3,7 @@
 CH01.04_Q26
 
 a.
+
 ![Q26_a](https://github.com/user-attachments/assets/29564c89-02ad-425d-87ef-b2348a6101ce)
 
 b.
