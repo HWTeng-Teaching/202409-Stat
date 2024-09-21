@@ -7,5 +7,7 @@ a.
 
 b.
 Total amount = 50
+
 Older than 35 to less than 45 = 27
+
 27/50=54%
