@@ -100,7 +100,7 @@ CH02.04_Q24
 
 a.
 
-![image](https://github.com/user-attachments/assets/fa2290de-f192-4f76-9aab-373efc5690b0)
+![image](https://github.com/user-attachments/assets/de6e4c16-6238-4faf-811c-4eda37eda454)
 
 b.
 
