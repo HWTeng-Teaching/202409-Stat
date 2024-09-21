@@ -45,4 +45,35 @@ Median= .5(n+1) = 4.5th → 4+0.5*(4-4)=4
 ![image](https://github.com/user-attachments/assets/c2361833-544b-4c31-8cb0-e8a4a2de1776)
 -----------------------------------------------------------------------
 CH02.02 Q14
+a. Calculate the range
+Raw data : 49,70,54,67,59,40,61,69,71,52
+Sort numbers : 40,49,52,54,59,61,67,69,70,71
+Range = 71 - 40 = 31
+
+### b. Calculate $\bar{x}$ and *s*.
+### $\bar{x}$
+
+$$
+\bar{x} = \frac{\sum{x_i}}{n}
+$$
+
+$$
+\bar{x} =( 49 + 70 + 54 + 67 + 59 + 40 + 61 + 69 + 71 + 52 ) / 10 = 59.2
+$$
+
+### *s*:
+$$
+s = \sqrt{\frac{\sum{(x_i - \bar{x})^2}}{n - 1}}
+s= \sqrt{
+$$
+
+$$
+\quad s \approx 10.37
+$$
+
+c. The range is about how many standard？
+
+##31 / 10.37 = 2.99 \approx 3
+
+The range is approximately 3 standard deviations.
 
