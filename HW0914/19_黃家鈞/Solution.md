@@ -24,6 +24,8 @@ Dotplot：
 
 ![image](https://github.com/user-attachments/assets/1ad963c1-7253-4f0f-a2e9-6aa1d84031ec)
 
+![image](https://github.com/user-attachments/assets/561e233c-d038-48c0-b65f-8316101d3b1b)
+
 ---
 
 CH02.02 Q14
