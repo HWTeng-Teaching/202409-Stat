@@ -118,3 +118,7 @@ c.
 
 no outliers
 
+d.
+
+The young dolphin has fewer toxic elements in the livers. It makes sense and reasonable, as the young dolphin live in polluted ocean less time than old ones. 
+
