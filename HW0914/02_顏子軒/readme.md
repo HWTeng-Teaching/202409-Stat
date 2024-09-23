@@ -1,1 +1,19 @@
+ ***a. Construct a relative frequency histogram for these data. Start the lower boundary of the first class at 30 and use a class width of 5 months.***
+| 月齡區間 (Months) | 頻率 (Frequency) | 相對頻率 (Relative Frequency) |
+|-------------------|------------------|------------------------------|
+| 30-35             | 12               | 0.24                         |
+| 35-40             | 15               | 0.30                         |
+| 40-45             | 12               | 0.24                         |
+| 45-50             | 8                | 0.16                         |
+| 50-55             | 2                | 0.04                         |
+| 55-60             | 1                | 0.02                         |
 
+![CH1_Q26](https://github.com/user-attachments/assets/d904be77-ec15-472a-a4f9-433caddd3e50)
+
+ ***b.What proportion of the children were 35 months or older, but less than 45 months of age when first enrolled in preschool?***
+
+$\text{Proportion} = \frac{\text{Number of children aged 35 to 44 months}}{\text{Total number of children}} = \frac{27}{50} = 0.54$
+
+ ***c.If one child were selected at random from this group of children, what is the probability that the child was less than 50 months old when first enrolled in preschool?***
+
+$P(\text{age} < 50) = \frac{\text{Number of children aged less than 50 months}}{\text{Total number of children}} = \frac{47}{50} = 0.94$
