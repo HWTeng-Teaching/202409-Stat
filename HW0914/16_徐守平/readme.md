@@ -110,3 +110,11 @@ Median=0.5(28+1)=14.5th→241+0.5*(252-241)=246.5
 Q3=0.75(28+1)=21.75th→316+0.75*(318-316)=317.5
 
 
+b. 
+
+![box plot](https://github.com/user-attachments/assets/18af5198-b53b-40ea-bd8c-7e33a3ddb8f7)
+
+c.
+
+no outliers
+
