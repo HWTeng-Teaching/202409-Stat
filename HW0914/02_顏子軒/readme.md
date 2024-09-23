@@ -12,8 +12,8 @@
 
  ***b.What proportion of the children were 35 months or older, but less than 45 months of age when first enrolled in preschool?***
 
-$\text{Proportion} = \frac{\text{Number of children aged 35 to 44 months}}{\text{Total number of children}} = \frac{27}{50} = 0.54$
+$\text{Proportion} = \frac{27}{50} = 0.54$
 
  ***c.If one child were selected at random from this group of children, what is the probability that the child was less than 50 months old when first enrolled in preschool?***
 
-$P(\text{age} < 50) = \frac{\text{Number of children aged less than 50 months}}{\text{Total number of children}} = \frac{47}{50} = 0.94$
+$P(\text{age} < 50)  = \frac{47}{50} = 0.94$
