@@ -28,9 +28,9 @@ Five-Number Summary：
 ### b. What does the box plot tell you about
 
 The box plot shows the following:
-
-- Range: The utility costs vary between approximately $230 and $460, indicating a significant difference in costs between the least and most expensive months.
-- Median: The median monthly cost is slightly below $300, suggesting that half of the months have utility bills above this value and half below.
-- IQR (Interquartile Range): The middle 50% of the months have utility costs between about $250 and $400. This indicates that the majority of the bills cluster within this range.
-- Outliers or Extremes: The maximum values, such as July at $459.21, suggest that summer months might have higher utility bills, likely due to air conditioning or other seasonal factors.
-- The box plot highlights variability in the costs, with a potential seasonal pattern where summer months (like July and September) tend to have higher bills.
+總結：水電費變異大，夏季月份（如 7 月和 9 月）費用較高。
+- 範圍(Range): 水電費在約 230 至 460 美元之間波動，顯示差異顯著。
+- 中位數(Median): 中位數略低於 300 美元，表明一半月份高於此值，另一半低於此值。
+- 四分位距 (IQR): 中間 50% 的水電費在 250 至 400 美元之間。
+- 極值或異常值(Outliers or Extremes): 7 月的 459.21 美元表明夏季水電費較高，可能由於空調等因素。
+- 總結：此箱型圖突顯了費用的變異性，並可能顯示出季節性的模式，例如夏季月份（如 7 月和 9 月）往往有較高的水電費。
