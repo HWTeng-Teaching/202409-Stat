@@ -122,3 +122,14 @@ d.
 
 The young dolphin has fewer toxic elements in the livers. It makes sense and reasonable, as the young dolphin live in polluted ocean less time than old ones. 
 
+-----------------------------------------------------------------------------
+CH02.04_Q24
+
+a.
+
+![image](https://github.com/user-attachments/assets/b7717b40-98d0-4557-9812-886201372047)
+
+b.
+
+From Jun to Sep the uility bills amount raising up significantly. So it can tell that the weather is hot than other month.
+
