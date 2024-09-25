@@ -1,5 +1,7 @@
 **學號:IOF112035   張睿廷**
 
+![image](https://github.com/user-attachments/assets/2b11d9c5-88fc-4a8d-a73f-7f578bd21ea2)
+
 ### a. Draw a box plot
 Ordered Data (Smallest to Largest)
 | Month     | Amount (\$) |
