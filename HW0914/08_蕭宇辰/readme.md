@@ -10,8 +10,6 @@ b. 27/50=54%
 
 c. 47/50=94%
 
-dotplot
-![image](https://github.com/user-attachments/assets/8cbe5163-3c7b-4bd2-be7b-4bb50a1f64d7)
 
 
 ------
@@ -27,6 +25,10 @@ Mode= 3、4、5
 Mean=4
 
 Median=4+0.5*(4-4)=4
+
+dotplot
+![image](https://github.com/user-attachments/assets/8cbe5163-3c7b-4bd2-be7b-4bb50a1f64d7)
+
 
 -----
 
