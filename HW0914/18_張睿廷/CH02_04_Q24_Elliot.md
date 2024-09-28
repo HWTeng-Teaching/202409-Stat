@@ -21,11 +21,16 @@ Ordered Data (Smallest to Largest)
 
 Five-Number Summary：
 - **最小值 (Minimum):** 233.97
-- **第一四分位數 (Q1):** 248.62
-- **中位數 (Median, Q2):** 280.08
-- **第三四分位數 (Q3):** 402.28
+- **第一四分位數 (Q1):** 247.34+0.25(252.44-247.34)=248.62
+- **中位數 (Median):** 273.80+0.5(286.35-273.80)=280.08
+- **第三四分位數 (Q3):** 383.68+0.75(408.48-383.68)402.28
 - **最大值 (Maximum):** 459.21
-![24](https://github.com/user-attachments/assets/baf8a5c0-9b5c-45f7-bcca-1a901e44ebc2)
+- **IQR:** 459.21IQR:Q3-Q1=402.28-248.62=153.66
+- **Lower fence:** Q1-1.5IQR=248.62-1.5(153.66)=18.12
+- **Upper fence:** Q3+1.5IQR=402.28+1.5(153.66)=632.77
+
+![image](https://github.com/user-attachments/assets/c647b013-34f4-4b2a-9087-29d4a63dcf22)
+
 
 ### b. What does the box plot tell you about
 
