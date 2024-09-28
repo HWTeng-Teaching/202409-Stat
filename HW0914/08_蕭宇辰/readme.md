@@ -122,11 +122,12 @@ Q3=316+0.75*(318-316)=317.5
 max=485
 
 b.
-![image](https://github.com/user-attachments/assets/44f6fe4d-1198-4372-a181-a5edc0d6a75e)
+![image](https://github.com/user-attachments/assets/1e37454e-e045-4775-b29b-944089a00d5e)
 
 
 
-c.按1.5倍的IQR作為outlier的標準，此案例中IQR=315.75-130.5=185.25，上下界為 {Q1-1.5IQR,Q3+1.5IQR}={-150,598}
+
+c.按1.5倍的IQR作為outlier的標準，此案例中IQR=315.75-130.5=185.25，上下界為 {Q1-1.5IQR,Q3+1.5IQR}={-56.5,598}
 此資料集均在此範圍內，故知未有outliers
 
 d.有助於解釋。年齡較小的海豚處於該環境中的時間較短，肝臟中的汞濃度累積時間較短，因此能夠解釋前四隻年齡較小的海豚肝臟中汞濃度明顯低於其他海豚。
