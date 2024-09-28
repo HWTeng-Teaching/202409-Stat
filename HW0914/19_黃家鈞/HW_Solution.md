@@ -80,7 +80,7 @@ max=485
 
 b.
 
-![image](https://github.com/user-attachments/assets/4d2497cd-64e9-40fb-b4fe-513aa5bc742c)
+![image](https://github.com/user-attachments/assets/7f45e186-fd95-4f81-8bbc-2fd4425e65bb)
 
 c.
 
