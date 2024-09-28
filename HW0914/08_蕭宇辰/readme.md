@@ -146,7 +146,8 @@ CH02.04_Q24
 
 a.
 
-![image](https://github.com/user-attachments/assets/8f1e461f-725f-46e1-994a-dcc2832d1376)
+![image](https://github.com/user-attachments/assets/0b307485-459a-4fbc-a359-ca4b497b4f3f)
+
 
 
 
