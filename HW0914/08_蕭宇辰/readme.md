@@ -10,6 +10,10 @@ b. 27/50=54%
 
 c. 47/50=94%
 
+dotplot
+![image](https://github.com/user-attachments/assets/8cbe5163-3c7b-4bd2-be7b-4bb50a1f64d7)
+
+
 ------
 
 CH2.01_Q2
