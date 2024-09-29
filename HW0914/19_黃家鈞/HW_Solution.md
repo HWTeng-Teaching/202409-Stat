@@ -1,5 +1,7 @@
 CH01.04_Q26
 
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/e295bdfa-ea6a-45c6-afa0-5d3925e01a3e">
+
 a.
 ![image](https://github.com/user-attachments/assets/c902ef1e-9871-40b6-8815-286b9e2e9d06)
 
@@ -13,6 +15,8 @@ $\frac{12＋15＋12＋8}{50}＝94％$
 ---
 
 CH2.01_Q2
+
+<img width="543" alt="image" src="https://github.com/user-attachments/assets/c7b99bcf-73f0-4c38-99a3-1a350633afe6">
 
 Mean＝ $\frac{2＋3＋3＋4＋4＋5＋5＋6}{8}＝4$
 
@@ -29,6 +33,8 @@ Dotplot：
 ---
 
 CH02.02 Q14
+
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/8a1fca56-6b23-4039-bc73-f04b6ef173ee">
 
 a.
 
@@ -50,6 +56,8 @@ $\frac{31}{10.37}\approx2.99$
 
 CH02.04_Q02
 
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/6439390a-d5f8-4a7f-8940-95d944bda5eb">
+
 mean=38.6÷11≈3.51
 
 $s^2$=(182.3−1489.96÷11)÷10≈4.68
@@ -65,6 +73,8 @@ Min z-score=(1-3.51)÷2.16≈|1.16|<2
 ---
 
 CH02.04_Q20
+
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/5c19af05-fa69-4964-943b-07510aa2d1b7">
 
 a.
 
@@ -99,6 +109,8 @@ d.
 ---
 
 CH02.04_Q24
+
+![image](https://github.com/user-attachments/assets/d4938d04-80f5-42f9-98f5-04ef5710fcb9)
 
 a.
 
