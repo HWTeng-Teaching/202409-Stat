@@ -2,8 +2,20 @@
 
 ## 吳佩欣(513717003)
 
-Temperature-x	31	23	33	29	28	24	21	28	21	28	independent 	自變數
-Chirps per second-y	20	16	19	18	18	16	14	17	15	16	dependent	因變數
--------------------------------------
-|Temperature-x
---------------------------
+###a
+
+Temperature - x - independent - 自變數
+Chirps per second - y- dependent -	因變數
+
+###b
+
+温度越高, 鳴叫次數越多, 但增幅不大.
+
+###c
+y = 6.1153 + 0.4054x
+
+
+###d
+y = 6.1153 + 0.4054*27
+
+17.0611
