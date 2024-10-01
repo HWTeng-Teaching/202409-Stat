@@ -1,10 +1,22 @@
 ## 吳佩欣(513717003)
 
 ###a
+independent	Floors-X
+dependent	Height-Y
 
 ###b
+r=	0.9566 
 
 ###c
+Scatterplot
 
+
+正相關強.
+樓層數越多, 樓高越高.
+沒有outliers.
 
 ###d
+Least-squares line
+y=-13.9065+4.4045X
+y=-13.9065+4.4045*48
+197.5095
