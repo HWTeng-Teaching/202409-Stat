@@ -33,13 +33,15 @@ Dependent variable(因變數): Chirps per second - y
 |------|------|------|-------|-------|-------|
 | 4.142| 1.853| 6.956| 0.906 | 0.405 | 6.115 |
 
-$$
-S_x = \sqrt{\frac{\sum x^2 - \left(\frac{\sum x}{n}\right)^2}{n - 1}}
-；S_y = \sqrt{\frac{\sum y^2 - \left(\frac{\sum y}{n}\right)^2}{n - 1}}
-；S_{xy} = \frac{\sum xy - \frac{\sum x \sum y}{n}}{n - 1}
-；r = \frac{S_{xy}}{S_x S_y}
-；b = r \times \frac{S_y}{S_x}
-$$
+>$S_x = \sqrt{\frac{\sum x^2 - \left(\frac{\sum x}{n}\right)^2}{n - 1}}$
+>
+>$S_y = \sqrt{\frac{\sum y^2 - \left(\frac{\sum y}{n}\right)^2}{n - 1}}$
+>
+>$S_{xy} = \frac{\sum xy - \frac{\sum x \sum y}{n}}{n - 1}$
+>
+>$r = \frac{S_{xy}}{S_x S_y}$
+>
+>$b = r \times \frac{S_y}{S_x}$
 
 ### Least-Squares Line: y=6.115+0.405x
 
