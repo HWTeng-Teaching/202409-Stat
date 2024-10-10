@@ -10,7 +10,7 @@ b.  scatterplot
 
 The temperature gets higher, crickets chirp faster.
 
-c.
+c. The least squares regression line
 
 <img width="392" alt="截圖 2024-10-10 下午9 13 25" src="https://github.com/user-attachments/assets/f767cd5d-8b2f-4c8b-a62b-2a82a49c4e7d">
 
