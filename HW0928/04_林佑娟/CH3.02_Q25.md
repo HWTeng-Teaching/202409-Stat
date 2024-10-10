@@ -11,4 +11,5 @@ b.  scatterplot
 
 The temperature gets higher, crickets chirp faster.
 
-c. X
+c. bar{x}= 26.6, S_{x}=4.14
+   bar{y}=16.9,S_{y}=1.85
