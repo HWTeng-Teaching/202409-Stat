@@ -1,7 +1,9 @@
 <img width="265" alt="截圖 2024-10-10 下午3 26 52" src="https://github.com/user-attachments/assets/608819df-14a8-4db0-ac25-9f4fabe9a582">
 
-a.  Y=a+bX，溫度會影響名叫次數，所以
-
+a.  題目得知，蟋蟀鳴叫次數增加隨溫度增加，次數減少隨溫度減少。溫度會影響名叫次數
+    溫度會影響名叫次數，所以Y=a+bX，
     temperature 為Ｘ軸，即 independent variable 
     number of chirps 為Ｙ軸，即 dependent variable  
-    
+
+b.  scatterplot 
+<img width="482" alt="截圖 2024-10-10 下午3 54 31" src="https://github.com/user-attachments/assets/44d27f0f-0492-4423-96eb-5fdebd987b0e">
