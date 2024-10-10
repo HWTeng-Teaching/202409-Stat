@@ -1,7 +1,6 @@
 <img width="265" alt="截圖 2024-10-10 下午3 26 52" src="https://github.com/user-attachments/assets/608819df-14a8-4db0-ac25-9f4fabe9a582">
 
-a.  題目得知，蟋蟀鳴叫次數增加隨溫度增加，次數減少隨溫度減少。溫度會影響名叫次數
-    溫度會影響名叫次數，所以Y=a+bX，
+a.  蟋蟀鳴叫次數增加隨溫度增加，次數減少隨溫度減少。溫度會影響名叫次數
     temperature 為Ｘ軸，即 independent variable 
     number of chirps 為Ｙ軸，即 dependent variable  
 
@@ -11,7 +10,11 @@ b.  scatterplot
 
 The temperature gets higher, crickets chirp faster.
 
-c. $\bar{x}= 26.6, S_{x} = 4.14$
+c.
+
+<img width="392" alt="截圖 2024-10-10 下午9 13 25" src="https://github.com/user-attachments/assets/f767cd5d-8b2f-4c8b-a62b-2a82a49c4e7d">
+
+$\bar{x}= 26.6, S_{x} = 4.14$
 
    $\bar{y}= 16.9, S_{y} = 1.85$
    
@@ -26,3 +29,5 @@ c. $\bar{x}= 26.6, S_{x} = 4.14$
    $y = a + bx = 6 + 0.41x$
    
 d. $y = a + bx = 6 + 0.41* 27 = 17$
+
+
