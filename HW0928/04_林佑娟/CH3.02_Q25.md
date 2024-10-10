@@ -11,5 +11,8 @@ b.  scatterplot
 
 The temperature gets higher, crickets chirp faster.
 
-c. bar{x}= 26.6, S_{x}=4.14
-   bar{y}=16.9,S_{y}=1.85
+c. $\bar{x}= 26.6, S_{x}=4.14$
+
+   $\bar{y}= 16.9, S_{y}=1.85$
+   
+   $S_{xy}=4558-266*169/10/10-1$
