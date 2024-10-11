@@ -8,6 +8,7 @@ y = a + bx
 樓層為independent variable
 
 b. 
+
 <img width="396" alt="截圖 2024-10-11 上午11 18 41" src="https://github.com/user-attachments/assets/43f079e7-4885-4920-9611-f36f4bb45d8c">
 
 
@@ -19,8 +20,11 @@ $\bar{x}= 1378, S_{x} = 49.32$
 
    $r=\frac{396.85}{9.49*43.71} = 0.96$
 
-   $r= 0.96，得知樓高和 樓層為Strong且為Positive。
+   r= 0.96，得知樓高和 樓層為Strong且為Positive。
+   
 c.
+
+<img width="497" alt="截圖 2024-10-11 上午11 45 32" src="https://github.com/user-attachments/assets/044ab717-e0ca-4913-bf33-3f1a431c2b59">
 
    $b = 0.91*\frac{1.85}{4.14} = 0.41$
 
