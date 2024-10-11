@@ -8,15 +8,16 @@ y = a + bx
 樓層為independent variable
 
 b. 
-<img width="393" alt="截圖 2024-10-11 上午11 02 06" src="https://github.com/user-attachments/assets/ef83da58-f983-4695-a9f3-026af6047201">
+<img width="396" alt="截圖 2024-10-11 上午11 18 41" src="https://github.com/user-attachments/assets/43f079e7-4885-4920-9611-f36f4bb45d8c">
+
 
 $\bar{x}= 1378, S_{x} = 49.32$
 
    $\bar{y}= 5680, S_{y} = 227.10$
    
-   $S_{xy}=\frac{290252-\frac{1378*5680}{28}}{28-1} = 13.41$
+   $S_{xy}=\frac{290252-\frac{1378*5680}{28}}{28-1} = 396.85$
 
-   $r=\frac{13.41}{49.32*227.10} = 0.91$
+   $r=\frac{396.85}{9.49*43.71} = 0.96$
 
    $b = 0.91*\frac{1.85}{4.14} = 0.41$
 
