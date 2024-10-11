@@ -8,3 +8,6 @@ y = a + bx
 樓層為independent variable
 
 b. 
+<img width="393" alt="截圖 2024-10-11 上午11 02 06" src="https://github.com/user-attachments/assets/ef83da58-f983-4695-a9f3-026af6047201">
+
+
