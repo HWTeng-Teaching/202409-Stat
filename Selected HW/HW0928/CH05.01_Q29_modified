@@ -9,7 +9,7 @@ Solution:
 This problem can be modeled using a geometric distribution. 
 In a geometric distribution, the probability of success on the k-th trial 
 (where k is the number of trials until the first success) is given by:
-P(X=k)=(1-p)^(k-1)p
+$P(X=k)=(1-p)^(k-1)p$
 Where:
 
 	•	p is the probability of success (hitting oil) on any given trial.
