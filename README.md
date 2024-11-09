@@ -2,8 +2,8 @@
 
 ## Earliear courses
 
-202309 Stat: https://github.com/HWTeng-Teaching/202402-Statistics
-202402 Stat II: https://github.com/HWTeng-Teaching/202309-Statistics
+- 202309 Stat: https://github.com/HWTeng-Teaching/202402-Statistics
+- 202402 Stat II: https://github.com/HWTeng-Teaching/202309-Statistics
 
 
 
