@@ -9,6 +9,10 @@
 - 202402 Stat (II) https://github.com/HWTeng-Teaching/202309-Statistics
 
 
+## Resources
+
+- Andew Ng (2023) AI opportunities https://youtu.be/5p248yoa3oE?si=sa54b4NTwd_CGvfk
+  
 
 ## Namelist
 
