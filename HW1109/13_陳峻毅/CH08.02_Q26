@@ -1,1 +1,40 @@
 
+### Given:
+- Number of individuals who pursued crime-free lives: x = 79 
+- Total number of individuals:  n = 121 
+
+### 1. **Point Estimate for \( p \):**
+$hat{p} = \frac{x}{n} = \frac{79}{121}$
+$hat{p} = 0.6529 \text{ (approximately } 0.653 \text{)}$
+
+### 2. **Margin of Error:**
+The margin of error (ME) is calculated using the formula for a confidence interval for a proportion:
+$ME = Z \cdot \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}$
+Where:
+- Z : Critical value for the desired confidence level (e.g., for 95% confidence, \( Z = 1.96 \)).
+- $\hat{p}$: Sample proportion.
+- n : Sample size.
+
+#### Step-by-step calculation:
+1. Calculate $ \hat{p}(1 - \hat{p}) $:
+   
+   $\hat{p}(1 - \hat{p}) = 0.6529 \cdot (1 - 0.6529) = 0.6529 \cdot 0.3471 = 0.2267$
+   
+
+2. Divide by n :
+   $\frac{\hat{p}(1 - \hat{p})}{n} = \frac{0.2267}{121} = 0.001874$
+   
+
+3. Take the square root:
+   $\sqrt{\frac{\hat{p}(1 - \hat{p})}{n}} = \sqrt{0.001874} = 0.0433 $
+
+4. Multiply by  Z = 1.96  (for 95% confidence):
+   ME = $1.96 \cdot 0.0433 = 0.0848 \text{ (approximately } 0.085 \text{)}$
+
+---
+
+### Final Answers:
+1. **Point Estimate $ \hat{p} $**:  0.653 
+2. **Margin of Error ME **:  0.085 
+
+This means the probability  p  is approximately  0.653 , with a margin of error of  $\pm 0.085 \$)+.
