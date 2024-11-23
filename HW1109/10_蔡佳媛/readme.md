@@ -1,6 +1,6 @@
 
-$\bar{x}$
+$\bar{x} \pm z \times \frac{s}{\sqrt{n}}$
 
-$z \times \sqrt{\frac{\hat{p}\hat{q}}{n}}$
+$\hat{p} \pm z \times \sqrt{\frac{\hat{p}\hat{q}}{n}}$
 
-$\mu$
+$Z_{STAT} = \frac{\hat{p}-p}{\sqrt{\frac{\hat{p}\hat{q}}{n}}} \rightarrow Z$
