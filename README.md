@@ -2,9 +2,7 @@
 
 ## Teams 
 
-https://teams.microsoft.com/l/meetup-join/19:K7xBCOCxYIxjGSqVix00TjV-MVI085EfsQYWUBV5Tdk1@thread.tacv2/1732328065374?context=%7B%22Tid%22:%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22,%22Oid%22:%2221aaf2a9-0d3c-4dcd-a1ec-a51b911a3cf7%22%7D
-
-
+https://teams.microsoft.com/l/meetup-join/19:K7xBCOCxYIxjGSqVix00TjV-MVI085EfsQYWUBV5Tdk1@thread.tacv2/1732339579934?context=%7B%22Tid%22:%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22,%22Oid%22:%2221aaf2a9-0d3c-4dcd-a1ec-a51b911a3cf7%22%7D
 
 ## Earliear courses
 
