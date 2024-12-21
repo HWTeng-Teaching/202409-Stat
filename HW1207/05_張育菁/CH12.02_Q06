@@ -1,1 +1,30 @@
+![CH12 02_Q06](https://github.com/user-attachments/assets/2d3b7b91-e913-4e11-858f-5795a468fc97)
 
+# 最小平方法與方差分析 (ANOVA)
+## 1. 最小平方迴歸方程式
+根據計算，迴歸線為：
+$\hat{y} = 3.0 + 1.2x$
+---
+## 2. ANOVA 表
+
+| Source      | $df$ | $SS$  | $MS$   |
+|-------------|------|-------|--------|
+| Regression  | 1    | 14.4  | 14.4   |
+| Error       | 3    | 1.6   | 0.533  |
+| Total       | 4    | 16.0  | —      |
+
+---
+
+## 3. 解釋
+- **迴歸平方和 ($SS_{regression}$)**：
+  $SS_{regression} = 14.4$，表示由回歸模型解釋的變異。
+- **誤差平方和 ($SS_{error}$)**：
+  $SS_{error} = 1.6$，表示由回歸模型無法解釋的變異。
+- **總平方和 ($SS_{total}$)**：
+  $SS_{total} = 16.0$，表示資料總變異。
+
+均方 ($MS$) 的計算：
+1. 迴歸均方：
+   $MS_{regression} = \frac{SS_{regression}}{df_{regression}} = \frac{14.4}{1} = 14.4$
+2. 誤差均方：
+   $MS_{error} = \frac{SS_{error}}{df_{error}} = \frac{1.6}{3} \approx 0.533$
