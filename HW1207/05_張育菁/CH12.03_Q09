@@ -1,1 +1,35 @@
 
+
+Check whether there is a linear relationship in the data:  
+$H_0$ : $\beta$ = 0
+
+$H_a$ : $\beta$ $\ne$ 0
+
+Because $\alpha$ = 0.05, RR = {t: t $\le$ -2.145 or t $\ge$ 2.145  }
+
+![image](https://github.com/user-attachments/assets/76125aa0-aa8b-42bc-8d5b-e7466d9e0970)
+
+$t_{STAT}=\frac{(b-0)}{\sqrt{\frac{MSE}{S_{xx}}}}$  ~ $t_{(n-2)}$
+
+$t^*$ = $\frac{(b-0)}{\sqrt{\frac{MSE}{S_{xx}}}}$ = $\frac{( 0.0231-0)}{\sqrt{\frac{0.0004}{340}}}$ = 21.2971
+
+( Total SS = 0.1864， SSR = $\frac{{S_{xy}}^2}{S_{xx}} = \frac{7.85\times7.85}{340} \approx$ 0.1812 ，SSE = Total SS-SSR = 0.0052， MSE= SSE /(n-2) = 0.0052 / 14 $\approx$ 0.0004 )
+
+$t^*$ is in the rejection region, so we reject $H_0$ which means we have sufficient proof to indicate that there is liner relationship between the datas. 
+
+
+## c.
+
+|       | DF    | SS | MS | F |
+| ----  | --    | -- | -- | -- |
+| Reg   | 1     | 0.1812  | 0.1812  | 453  |
+| Error | 14     | 0.0052 |0.0004  |   |
+| Tatol | 15     | 0.1864 |   |   |
+
+$F_{state}$ = $\frac{MSR}{MSE}$ ~ $F_{(1,n-2)}$
+
+$F^*$ = 0.1812/0.0004 = 453
+
+with t* = 21.2971 ， ${t*}^2$ = 453.5665
+
+$F^* \approx t*^2$
